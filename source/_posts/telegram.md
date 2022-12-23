@@ -1,7 +1,8 @@
 ---
 title: 为什么telegram是世界上最棒的即时通讯软件 
 date: 2022.12.22
-tags:
+tags:telegram,言论自由
+categories:telegram
 ---
 # 搬运自github [作者](https://github.com/ting-talk "作者")
 Telegram 是迄今为止最棒的即时聊天软件，在这个自由新世界，不必自我审查（Freedom of speech）。
