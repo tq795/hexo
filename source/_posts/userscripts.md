@@ -28,7 +28,7 @@ categories:
 
 ## 安装油猴
 
-- 有 [番茄](https://tingtalk.me/fq/)，通过 [官网](https://www.tampermonkey.net/) 在线安装
+- 有 [番茄](https://1145.top/2022/12/21/against-gfw/)，通过 [官网](https://www.tampermonkey.net/) 在线安装
 - 无法科学上网，通过 [极简插件](https://chrome.zzzmh.cn/index) 下载 crx 文件，然后 [离线安装](https://chrome.zzzmh.cn/help?token=setup)
 
 相似脚本管理器有 [暴力猴](https://violentmonkey.github.io/get-it/)（Violentmonkey）。相比 Tampermonkey，界面更简洁，管理脚本更方便，适合不喜欢折腾的用户。
