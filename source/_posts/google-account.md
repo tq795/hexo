@@ -1,6 +1,6 @@
 ---
 title: 如何注册 Google（谷歌）账号
-date: 
+date: 2022.12.23
 tags:
 - google
 categories:
