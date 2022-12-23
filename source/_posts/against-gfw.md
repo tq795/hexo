@@ -1,7 +1,8 @@
 ---
 title: 科学·上网客户端使用[教程]
 date: 2022.12.22
-tags:
+tags: 科学上网,gfw,vpn
+categories: vpn
 ---
 #科学·上网
 ## windows
