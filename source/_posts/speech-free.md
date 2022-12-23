@@ -1,7 +1,8 @@
 ---
 title: 喝茶小故事
 date: 2022.12.22
-tags:
+tags: telegram,言论自由,vpn,神奇日常
+categories:daily
 ---
 # 喝茶「喝茶」还有另一种隐晦的解释
 >（转载自tingtalk.me）
