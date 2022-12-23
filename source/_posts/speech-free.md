@@ -1,17 +1,25 @@
 ---
 title: 喝茶小故事
 date: 2022.12.22
-tags: [telegram,言论自由,vpn,神奇日常]
-categories: daily
+tags: 
+- telegram
+- 言论自由
+- vpn
+- 神奇日常
+categories: 
+- daily
 ---
+
 # 喝茶「喝茶」还有另一种隐晦的解释
->（转载自tingtalk.me）
+
+> （转载自tingtalk.me）
 
 > 一种通过饮用茶叶饮品而与历史进行深度沟通，对文化进行传承，对灵魂进行洗涤与升华的仪式。by [小鸡词典](https://jikipedia.com/definitions/user/443757271)
 
-
 本文于 2018 年 3 月 13 日首发在庭说的长篇 [日志](https://tingtalk.me/whisper/#2018-03-13) 里，今稍作润色，独立成文，以飨（xiǎng）读者。
+
 #### ### 告诉各位，网络并非法外之地
+
 #### ### 除非肉身润，要不然用tor照样查水表
 
 ## 转发评论
