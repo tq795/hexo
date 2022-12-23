@@ -5,8 +5,8 @@
 # Site
 title: tq的奇怪小仓库
 subtitle: '阿巴阿巴'
-description: ''
-keywords:
+description: '奇奇怪怪的东西'
+keywords: "cloudflare,KV,workers,blog,教程,tq4meishijia,机场,小飞机,小火箭,shadowrocket,vmess,vless,trojan,ssr,shadowsocks,shadowsocksR,youtube,telegram"
 author: 田所浩二（迫真）
 language: zh-CN
 timezone: 'Asia/shanghai'
@@ -14,7 +14,7 @@ timezone: 'Asia/shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://1145.top
-permalink: :year/:month/:day/:title/
+permalink: :name/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
