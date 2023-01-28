@@ -16,7 +16,7 @@ menu:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: pale night #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -76,42 +76,42 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://tva2.sinaimg.cn/large/007COyTaly8h9dmdnh2nsj30kv0kuwg0.jpg
+favicon: https://m.360buyimg.com/babel/jfs/t1/108357/39/34948/50712/63d4f6e4F856fbe42/6138726acda6500c.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://tva1.sinaimg.cn/large/007COyTaly8h9dmcu9p26j30tp0tpq4r.jpg
+  img: https://m.360buyimg.com/babel/jfs/t1/103392/5/21079/8161/63d4f602F66db951f/a86ff612867368cd.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: https://m.360buyimg.com/babel/jfs/t1/186017/12/30267/8661/63d4f7c9F6e7c9c80/835890dfad5da1b8.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://m.360buyimg.com/babel/jfs/t1/186017/12/30267/8661/63d4f7c9F6e7c9c80/835890dfad5da1b8.jpg
 
 # The banner image of archive page
-archive_img:
+archive_img: https://m.360buyimg.com/babel/jfs/t1/58520/20/18123/8765/63d4f866F5afe4028/4d2c95775f6b2934.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://m.360buyimg.com/babel/jfs/t1/166643/30/33313/12713/63d4f8f5F8b09e225/eebc52ce2b94b600.jpg
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img:
+tag_per_img: https://m.360buyimg.com/babel/jfs/t1/166643/30/33313/12713/63d4f8f5F8b09e225/eebc52ce2b94b600.jpg
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: https://m.360buyimg.com/babel/jfs/t1/166643/30/33313/12713/63d4f8f5F8b09e225/eebc52ce2b94b600.jpg
 
 # The banner image of category page
 # format:
 #  - category name: xxxxx
-category_per_img:
+category_per_img: https://m.360buyimg.com/babel/jfs/t1/166643/30/33313/12713/63d4f8f5F8b09e225/eebc52ce2b94b600.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -134,11 +134,11 @@ error_img:
 error_404:
   enable: true
   subtitle: '查无此页'
-  background: https://tva1.sinaimg.cn/large/007COyTaly8h9dmffgb71j31670u0jt5.jpg
+  background: https://m.360buyimg.com/babel/jfs/t1/166643/30/33313/12713/63d4f8f5F8b09e225/eebc52ce2b94b600.jpg
 
 post_meta:
   page: # Home Page
-    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_type: both # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
     tags: false # true or false 主頁是否顯示標籤
@@ -153,7 +153,7 @@ post_meta:
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
