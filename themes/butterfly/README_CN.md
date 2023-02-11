@@ -56,30 +56,30 @@ npm i hexo-theme-butterfly
 theme: butterfly
 ```
 
->如果你沒有pug以及stylus的渲染器，請下載安裝： npm install hexo-renderer-pug hexo-renderer-stylus --save
+> 如果你沒有pug以及stylus的渲染器，請下載安裝： npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 ## 🎉 特色
 
 - [x] 卡片化設計
-- [X] 支持二級目錄
+- [x] 支持二級目錄
 - [x] 雙欄設計
 - [x] 響應式主題
 - [x] 夜間模式
 - [x] Pjax
 - [x] 文章閲讀模式
 - [x] 簡體和繁體轉換
-- [X] 電腦和手機都可查看TOC目錄
-- [X] 內置多種代碼配色（darker/pale night/light/ocean/mac/mac light），可自定義代碼配色
-- [X] 代碼塊顯示代碼語言/關閉或展開代碼塊/代碼複製/代碼自動換行
-- [X] 可關閉文字複製/可開啟內容複製增加版權信息）
-- [X] 兩種搜索（Algolia搜索和本地搜索）
+- [x] 電腦和手機都可查看TOC目錄
+- [x] 內置多種代碼配色（darker/pale night/light/ocean/mac/mac light），可自定義代碼配色
+- [x] 代碼塊顯示代碼語言/關閉或展開代碼塊/代碼複製/代碼自動換行
+- [x] 可關閉文字複製/可開啟內容複製增加版權信息）
+- [x] 兩種搜索（Algolia搜索和本地搜索）
 - [x] Mathjax 和 Katex
 - [x] 內置404頁面
 - [x] 顯示字數統計
 - [x] 顯示相關文章
 - [x] 過期文章提醒
 - [x] 多種分享系統（AddThis/Sharejs/Addtoany）
-- [X] 多種評論系統（Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/artalk）
+- [x] 多種評論系統（Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/artalk）
 - [x] 支持雙評論部署
 - [x] 多種在線聊天（Chatra/Tidio/Daovoice/Gitter/Crisp/messenger）
 - [x] 多種分析系統
