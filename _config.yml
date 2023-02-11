@@ -103,3 +103,16 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# HexoPlusPlus Talk
+# see https://hexoplusplus.js.org
+hpptalk:
+  enable: true 
+  domain: edit.1145.top
+  path:
+  limit:
+  start:
+  js:
+  css:
+  option:
+  front_matter:
