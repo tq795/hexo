@@ -198,9 +198,9 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    # - img: /img/wechat.jpg
+     - img: https://m.360buyimg.com/babel/jfs/t1/121380/28/31128/45053/63e79f58F4462bf4f/cb55df3aecc7c6b6.jpg
     #   link:
-    #   text: wechat
+       text: wechat
     # - img: /img/alipay.jpg
     #   link:
     #   text: alipay
